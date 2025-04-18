@@ -13,7 +13,7 @@ The dataset used in this project is sourced from the DataCo Smart Supply Chain f
 - Python (JupyterLab)
 - Power BI
 
-Data Visualizations (with Insights and Recommendations)
+### Data Visualizations (with Insights and Recommendations)
 
 1. ![Image](https://github.com/user-attachments/assets/e0343482-a6f5-4f92-b6e8-efb6aa1f374c)
 2. ![Image](https://github.com/user-attachments/assets/9880f1ba-7f09-430b-98e5-a3ce1df61a7f)
